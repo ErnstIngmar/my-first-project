@@ -1,0 +1,17 @@
+{
+  "groupOp": "OR",
+  "rules":
+  [
+    {
+    "field": "realname",
+    "op": "eq",
+    "data ": "1234 "},
+    {"field ": "cityCode ",
+      "op": "ne ",
+      "data ": "5678 "},
+    {"filed": "adress",
+      "op": "miaomiao",
+      "data": "5.493.229.4"
+    }
+  ]
+}
