@@ -14,7 +14,7 @@ import java.util.regex.Pattern;
  * Created by Liner on 18/6/18.
  */
 public class ResourcePath {
-    private static String resourceFile = "abc.xml";
+    private static String resourceFile = "logback.xml";
     private static String propertyFile = "mytest.properties";
 
     public static void main(String[] args) {

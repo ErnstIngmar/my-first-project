@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <!--控制台输出-->
+    <!--<appender name="Console" class="org.apache.log4j.ConsoleAppender">-->
+        <!--<encoder>-->
+            <!--<pattern>%d [%thread] %-5level %4logger{40} - %msg%n</pattern>-->
+        <!--</encoder>-->
+
+    <!--</appender>-->
+
+    <!--<root level="INFO">-->
+        <!--<appender-ref ref="Console"></appender-ref>-->
+    <!--</root>-->
+</configuration>

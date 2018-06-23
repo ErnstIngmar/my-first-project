@@ -17,7 +17,7 @@ public class EnumDemo {
     }
 
     public double foreignExchange(double rmb, CurrencyEnum currencyEnum) {
-        LOGGER.info("{} = {} in RMB", currencyEnum.getDisc(), currencyEnum.getRate() * rmb);
+        LOGGER.info("{}{} = {}RMB", rmb, currencyEnum.getDisc(), currencyEnum.getRate() * rmb);
         return currencyEnum.getRate() * rmb;
     }
 }
